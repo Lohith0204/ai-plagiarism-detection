@@ -60,13 +60,13 @@ AI_PLAGIARISM_DETECTION/
 ## Screenshots
 
 ### Application Interface
-![Application Interface](<screenshots/Screenshot 2025-12-28 231742.png>)
+![Application Interface](<screenshots/Screenshot 2026-01-23 124536.png>)
 
 ### Text Input
-![Text Input](<screenshots/Screenshot 2025-12-28 231803.png>)
+![Text Input](<screenshots/Screenshot 2026-01-23 124640.png>)
 
 ### Plagiarism % Output
-![Plagiarism Output](<screenshots/Screenshot 2025-12-28 231834.png>)
+![Plagiarism Output](<screenshots/Screenshot 2026-01-23 124805.png>)
 
 
 ## How It Works
