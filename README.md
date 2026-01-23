@@ -3,7 +3,7 @@
 ## Live Demo
 Try out the deployed application here:
 
-🚀 **Streamlit App** → (Add your Streamlit URL here once deployed)
+🚀 **Streamlit App** → https://ai-plagiarism-detection.streamlit.app/
 
 ## Overview
 AI Plagiarism Detection is a Python-based application that analyzes input text and detects potential plagiarism by comparing it with content available on the web.
