@@ -43,6 +43,7 @@ AI_PLAGIARISM_DETECTION/
 ├── requirements.txt         # Project dependencies
 ├── README.md                # Project documentation
 ├──gitignore.txt
+├── LICENSE
 │             
 ├── ai_engine/
 │   ├── text_processing.py     # Text cleaning and sentence splitting
